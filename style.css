@@ -69,7 +69,8 @@ img {
     background: #505050;
 }
 
-.l-bg-gray .unit-title {
+.l-bg-gray .unit-title,
+.l-bg-blue .unit-title {
     color: #fff;
 }
 
